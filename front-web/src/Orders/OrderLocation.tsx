@@ -9,7 +9,7 @@ const initialPosition = {
     lng: -47.283461
 }
 
- type Place ={
+ type Place = {
      label?: string;
      value?: string;
      position: {
@@ -23,8 +23,6 @@ const initialPosition = {
 
   }
   
-
-
 function OrderLocation ({ onChangeLocation }: Props) {
     const [adress, setAddress] = useState<Place>({ 
         position: initialPosition
@@ -81,13 +79,10 @@ function OrderLocation ({ onChangeLocation }: Props) {
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                     />
                      <Marker position={adress.position}>
-                          <Popup>
-                              {adress.label}
-                          </Popup>
+                          <Popup>{adress.label}</Popup>
                      </Marker>
                 </MapContainer>
-            
-           </div>
+            </div>
         </div>
     )
 }

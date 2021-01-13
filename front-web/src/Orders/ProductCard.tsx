@@ -1,39 +1,31 @@
-
+import { formatPrice } from './helpers';
 import { Product } from './types';
 
 type Props = {
-    product: Product;
+    products: Product;
+    onSelectProduct: (product: Product) => void;
+    isSelected: boolean;
 }
 
-function formatPrice(price: number) {
-    const formatter = new Intl.NumberFormat('pt-BR', {
-        style: 'currency',
-        currency: 'BRL',
-       minimumFractionDigits: 2
-    });
-
-    return formatter.format(price);
-}
-
-function ProductCard({ product }: Props) {
+function ProductCard({ products, onSelectProduct, isSelected }: Props) {
     return (
-     <div className="ordersCard-container">
-         <h3 className="order-card-title">
-            {product.name}
+     <div  className={`order-card-container ${isSelected ? 'selected' : ''}`} 
+        onClick={() => onSelectProduct(products)}>
+      
+        <h3 className="order-card-title">
+            {products.name}
          </h3>
-         <img src={product.imageUri} 
+         <img src={products.imageUri} 
           className="order-card-image" 
-          alt={product.name}
+          alt={products.name}
           />
          <h3 className="order-card-price">
-             {formatPrice(product.price)}
+             {formatPrice(products.price)}
          </h3>
           <div className="order-card-description">
-            {product.description}
+            {products.description}
             <p>
-            Descrição Uma deliciosa combinação de Linguiça Calabresa,
-            rodelas de cebolas frescas, azeitonas pretas, mussarela,
-            polpa de tomate, orégano e massa especial.
+            {products.description}
             </p>
           </div>
      </div>
