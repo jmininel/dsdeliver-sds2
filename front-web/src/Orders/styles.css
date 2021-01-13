@@ -61,8 +61,8 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, 235px);
   grid-gap: 15px 15px;
-   /* justify-content: space-between;
-  */
+   justify-content: space-between;
+ 
 }
 
 .order-card-container {
