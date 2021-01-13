@@ -11,8 +11,8 @@ import { fetchProducts, saveOrder } from '../api';
 import './styles.css';
 import OrderLocation from './OrderLocation';
 import OrderSummary from './OrderSummary';
-import Footer from '../Footer';
 import { checkIsSelected } from './helpers';
+import Footer from '../Footer';
 
 function Orders() {
     const [products, setProducts] = useState<Product[]>([]);
@@ -67,7 +67,7 @@ function Orders() {
                 <OrderLocation onChangeLocation={location => setOrderLocation(location)} />
                 <OrderSummary amount={selectedProducts.length} totalPrice={totalPrice} onSubmit={handleSubmit} />
             </div>
-            <Footer />
+          <Footer />
         </>
     )
 }
