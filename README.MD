@@ -12,3 +12,10 @@
 <h1 align="center">
   <img alt="mapa_pedidos" title="#mapa_pedidos" src="./IMG_README/mapa_pedidos.PNG" />
 </h1>
+
+
+### 🛠 Tecnologias usadas no projeto
+
+- [Java]
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
