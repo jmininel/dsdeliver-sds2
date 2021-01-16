@@ -6,9 +6,9 @@
 </h1>
 
 <h1 align="center">
-  <img alt="TelaInicial" title="#TelaInicial" src="./IMG_README/lista_produtos.PNG" />
+  <img alt="lista_produtos" title="#lista_produtos" src="./IMG_README/lista_produtos.PNG" />
 </h1>
 
 <h1 align="center">
-  <img alt="TelaInicial" title="#TelaInicial" src="./IMG_README/mapa_pedidos.PNG" />
+  <img alt="mapa_pedidos" title="#mapa_pedidos" src="./IMG_README/mapa_pedidos.PNG" />
 </h1>
