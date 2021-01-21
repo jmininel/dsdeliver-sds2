@@ -18,7 +18,7 @@
 
 <a href="https://www.java.com/pt-BR/" target="_blank">Java</a>
 
-- [Java](https://www.java.com/pt-BR/)
+- [![java](https://emoji.gg/assets/emoji/java.png)](https://emoji.gg/emoji/java) [Java](https://www.java.com/pt-BR/)
 - [Spring](https://spring.io/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
