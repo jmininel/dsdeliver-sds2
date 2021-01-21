@@ -16,9 +16,9 @@
 
 ### 🛠 Tecnologias usadas no projeto
 
-<a href="https://www.java.com/pt-BR/" target="_blank">Java</a>
 
-- [![java](https://emoji.gg/assets/emoji/java.png)](https://emoji.gg/emoji/java) [Java](https://www.java.com/pt-BR/)
+
+- <a href="https://emoji.gg/emoji/java"><img src="https://emoji.gg/assets/emoji/java.png" width="10px" height="64px" alt="java"></a> [Java](https://www.java.com/pt-BR/)
 - [Spring](https://spring.io/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
