@@ -14,7 +14,8 @@
 </h1>
 
 
-### 🛠 <img src="https://emojis.slackmojis.com/emojis/images/1576133832/7296/babyyoda.png?1576133832"> Tecnologias usadas no projeto
+###  <img src="https://emojis.slackmojis.com/emojis/images/1576133832/7296/babyyoda.png?1576133832" width="32px" height="32px"> Tecnologias usadas no projeto
+<br> <br> <br>
 
 
 
