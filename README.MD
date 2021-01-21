@@ -18,7 +18,7 @@
 
 
 
-- <img src="https://emoji.gg/assets/emoji/java.png" width="30px" height="30px" alt="java"> [Java](https://www.java.com/pt-BR/)
--  [Spring](https://spring.io/)
+- <img src="https://emoji.gg/assets/emoji/java.png" width="32px" height="32px" alt="java"> [Java](https://www.java.com/pt-BR/)
+-  <img src="https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975" width="32px" height="32px" alt="Spring"> [Spring](https://spring.io/)
 - <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="30px" height="30px" alt="React"> [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- <img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="30px" height="30px" alt="TypeScript"> [TypeScript](https://www.typescriptlang.org/)
