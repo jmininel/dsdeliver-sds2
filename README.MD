@@ -18,7 +18,7 @@
 
 
 
-- <a href="https://emoji.gg/emoji/java"><img src="https://emoji.gg/assets/emoji/java.png" width="25px" height="25px" alt="java"></a> [Java](https://www.java.com/pt-BR/)
+- <a href="https://emoji.gg/emoji/java"><img src="https://emoji.gg/assets/emoji/java.png" width="30px" height="30px" alt="java"></a> [Java](https://www.java.com/pt-BR/)
 - [Spring](https://spring.io/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
