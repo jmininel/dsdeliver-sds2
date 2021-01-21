@@ -16,7 +16,7 @@
 
 ### 🛠 Tecnologias usadas no projeto
 
-<a href="https://www.java.com/pt-BR" target="_blank">Java</a>
+<a href="https://www.java.com/pt-BR/" target="_blank">Java</a>
 
 - [Java](https://www.java.com/pt-BR" target="_blank)
 - [Spring](https://spring.io/)
