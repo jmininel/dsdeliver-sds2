@@ -16,7 +16,7 @@
 
 ### 🛠 Tecnologias usadas no projeto
 
-- [Java](https://www.java.com/pt-BR/ target="_blank)
+- [Java](https://www.java.com/pt-BR" target="_blank)
 - [Spring](https://spring.io/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
