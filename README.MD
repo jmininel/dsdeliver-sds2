@@ -14,7 +14,7 @@
 </h1>
 
 
-### 🛠 Tecnologias usadas no projeto
+### 🛠 <img src="https://emojis.slackmojis.com/emojis/images/1563481442/6026/meow_sip.png?1563481442"> Tecnologias usadas no projeto
 
 
 
